@@ -39,3 +39,19 @@ tiny,clip_05.mp3,5.76,0.808,0.14,0.0,"A good password should contain letters, nu
 tiny,clip_06.mp3,4.056,0.775,0.191,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
 tiny,clip_07.mp3,7.344,0.869,0.118,0.0,"To make the soup, first chop the onions, then fry them gently in olive oil."
 tiny,clip_08.mp3,4.848,0.832,0.172,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
+tiny,myvoice_01.m4a,6.976,1.33,0.191,0.083,My name is Faris and I'm testing a speech recognition benchmark.
+tiny,myvoice_02.m4a,6.549,0.787,0.12,0.417,"I have 3 cats, 27 books and 1 30 old laptop."
+tiny,myvoice_03.m4a,7.915,0.803,0.102,0.231,The meeting is scheduled for March 15th at 2.30 in the afternoon.
+tiny,myvoice_04.m4a,5.611,0.747,0.133,0.273,I could not believe how quickly the model transcribe may force.
+tiny,myvoice_05.m4a,5.781,0.851,0.147,0.0,Their house is over there and they are coming soon.
+tiny,myvoice_06.m4a,5.867,0.758,0.129,0.231,Did the weather forecast say it would rain tomorrow or I was streaming?
+tiny,myvoice_07.m4a,6.635,0.758,0.114,0.182,The real time factor measures processing time divided by all due duration.
+tiny,myvoice_08.m4a,6.549,0.769,0.117,0.071,I'm going to the market because we are out of rice and coffee.
+base,myvoice_01.m4a,6.976,1.404,0.201,0.167,My name is Ferris and I'm testing a speech recognition benchmark.
+base,myvoice_02.m4a,6.549,1.085,0.166,0.167,I have three cats 27 books and one very old laptop.
+base,myvoice_03.m4a,7.915,1.125,0.142,0.231,The meeting is scheduled for March 15 at 2.30 in the afternoon.
+base,myvoice_04.m4a,5.611,1.074,0.191,0.182,I could not believe how quickly the model trans cracked my voice.
+base,myvoice_05.m4a,5.781,1.053,0.182,0.0,Their house is over there and they are coming soon.
+base,myvoice_06.m4a,5.867,1.107,0.189,0.385,Did the waterfall cast say it would rain tomorrow or I was streaming?
+base,myvoice_07.m4a,6.635,1.078,0.163,0.0,The real-time factor measures processing time divided by audio duration.
+base,myvoice_08.m4a,6.549,1.111,0.17,0.071,I'm going to the market because we are out of rice and coffee.
