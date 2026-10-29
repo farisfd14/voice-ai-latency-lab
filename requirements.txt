@@ -1,0 +1,6 @@
+openai-whisper>=20231117
+pandas>=2.0
+matplotlib>=3.7
+pytest>=7.0
+# ffmpeg is a SYSTEM dependency (not pip):  sudo apt install ffmpeg   (Debian/Ubuntu)
+#                                            brew install ffmpeg     (macOS)

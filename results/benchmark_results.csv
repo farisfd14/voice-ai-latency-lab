@@ -1,0 +1,41 @@
+model,file,audio_duration_s,processing_time_s,rtf,wer,hypothesis
+tiny,clip_01.mp3,3.96,1.87,0.472,0.154,The quick brown fox jumps over the lazy dog near the riverbank.
+tiny,clip_02.mp3,4.872,1.652,0.339,0.0,Machine learning models improve when they are trained on more diverse data.
+tiny,clip_03.mp3,3.936,1.693,0.43,0.0,Please remember to submit your expense report before the end of Friday.
+tiny,clip_04.mp3,7.416,1.739,0.234,0.0,The weather forecast predicts heavy rain and strong winds for tomorrow morning.
+tiny,clip_05.mp3,5.76,1.747,0.303,0.0,"A good password should contain letters, numbers, and at least one special character."
+tiny,clip_06.mp3,4.056,1.702,0.42,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
+tiny,clip_07.mp3,7.344,1.824,0.248,0.0,"To make the soup, first chop the onions, then fry them gently in olive oil."
+tiny,clip_08.mp3,4.848,1.745,0.36,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
+base,clip_01.mp3,3.96,3.727,0.941,0.154,The quick brown fox jumps over the lazy dog near the riverbank.
+base,clip_02.mp3,4.872,3.394,0.697,0.0,Machine learning models improve when they are trained on more diverse data.
+base,clip_03.mp3,3.936,3.327,0.845,0.0,Please remember to submit your expense report before the end of Friday.
+base,clip_04.mp3,7.416,3.408,0.46,0.0,The weather forecast predicts heavy rain and strong winds for tomorrow morning.
+base,clip_05.mp3,5.76,3.454,0.6,0.0,"A good password should contain letters, numbers, and at least one special character."
+base,clip_06.mp3,4.056,3.439,0.848,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
+base,clip_07.mp3,7.344,3.64,0.496,0.0,"To make the soup, first chop the onions. Then fry them gently in olive oil."
+base,clip_08.mp3,4.848,3.585,0.739,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
+tiny,clip_01.mp3,3.96,1.008,0.255,0.154,The quick brown fox jumps over the lazy dog near the riverbank.
+tiny,clip_02.mp3,4.872,0.693,0.142,0.0,Machine learning models improve when they are trained on more diverse data.
+tiny,clip_03.mp3,3.936,0.701,0.178,0.0,Please remember to submit your expense report before the end of Friday.
+tiny,clip_04.mp3,7.416,0.794,0.107,0.0,The weather forecast predicts heavy rain and strong winds for tomorrow morning.
+tiny,clip_05.mp3,5.76,0.784,0.136,0.0,"A good password should contain letters, numbers, and at least one special character."
+tiny,clip_06.mp3,4.056,0.825,0.203,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
+tiny,clip_07.mp3,7.344,0.851,0.116,0.0,"To make the soup, first chop the onions, then fry them gently in olive oil."
+tiny,clip_08.mp3,4.848,0.789,0.163,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
+base,clip_01.mp3,3.96,1.489,0.376,0.154,The quick brown fox jumps over the lazy dog near the riverbank.
+base,clip_02.mp3,4.872,1.131,0.232,0.0,Machine learning models improve when they are trained on more diverse data.
+base,clip_03.mp3,3.936,1.324,0.336,0.0,Please remember to submit your expense report before the end of Friday.
+base,clip_04.mp3,7.416,1.408,0.19,0.0,The weather forecast predicts heavy rain and strong winds for tomorrow morning.
+base,clip_05.mp3,5.76,1.359,0.236,0.0,"A good password should contain letters, numbers, and at least one special character."
+base,clip_06.mp3,4.056,1.357,0.335,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
+base,clip_07.mp3,7.344,1.527,0.208,0.0,"To make the soup, first chop the onions. Then fry them gently in olive oil."
+base,clip_08.mp3,4.848,1.49,0.307,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
+tiny,clip_01.mp3,3.96,1.444,0.365,0.154,The quick brown fox jumps over the lazy dog near the riverbank.
+tiny,clip_02.mp3,4.872,0.761,0.156,0.0,Machine learning models improve when they are trained on more diverse data.
+tiny,clip_03.mp3,3.936,0.755,0.192,0.0,Please remember to submit your expense report before the end of Friday.
+tiny,clip_04.mp3,7.416,0.782,0.105,0.0,The weather forecast predicts heavy rain and strong winds for tomorrow morning.
+tiny,clip_05.mp3,5.76,0.808,0.14,0.0,"A good password should contain letters, numbers, and at least one special character."
+tiny,clip_06.mp3,4.056,0.775,0.191,0.0,Our flight to Jakarta was delayed by two hours because of the storm.
+tiny,clip_07.mp3,7.344,0.869,0.118,0.0,"To make the soup, first chop the onions, then fry them gently in olive oil."
+tiny,clip_08.mp3,4.848,0.832,0.172,0.067,"The library closes at 9 in the evening, so we still have plenty of time."
